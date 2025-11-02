@@ -9,13 +9,13 @@ export default function Home() {
     {
       title: "WhatsApp",
       icon: <MessageCircle className="h-8 w-8" />,
-      url: "https://api.whatsapp.com/send/?phone=5592992845318&text&type=phone_number&app_absent=0",
+      url: "https://api.whatsapp.com/send/?phone=557581048463&text=Olá,%20Vim%20através%20do%20site.%20Poderia%20me%20ajudar?&type=phone_number&app_absent=0",
       category: "contact",
     },
     {
       title: "Instagram",
       icon: <Instagram className="w-6 h-6" />,
-      url: "https://www.instagram.com/rm.autoescola/",
+      url: "https://www.instagram.com/cfcjotajota",
       category: "social",
     }
   ];

@@ -138,7 +138,7 @@ export default function Home() {
                 ease: "linear"
               }}
             >
-              Autoescola RM
+              Autoescola Jota jota
             </motion.h1>
             <motion.p 
               className="text-zinc-400 text-center text-sm sm:text-base max-w-xs"
@@ -193,7 +193,7 @@ export default function Home() {
             transition={{ delay: 0.5 }}
             className="mt-12 text-center text-zinc-500 text-sm"
           >
-            <p>© 2025 Autoescola RM</p>
+            <p>© 2025 Autoescola Jota jota</p>
           </motion.footer>
         </div>
       </main>
